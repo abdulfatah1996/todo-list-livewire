@@ -38,6 +38,18 @@ A modern and interactive task management web app built using **Laravel 12**, **L
 | Tooling    | Composer, NPM          |
 
 ---
+## 🎥 Project Demo on YouTube
+
+Watch the full walkthrough of this ToDo List application on YouTube:
+
+🔗 youtube.com/watch?v=yA__f2gnCrU  
+[▶️ Click here to watch the video](https://youtu.be/yA__f2gnCrU)
+
+Or preview it directly below:
+
+[![Laravel ToDo App – YouTube](https://img.youtube.com/vi/yA__f2gnCrU/hqdefault.jpg)](https://youtu.be/yA__f2gnCrU)
+
+---
 
 ## Installation
 
