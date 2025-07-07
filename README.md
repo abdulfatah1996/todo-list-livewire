@@ -4,9 +4,12 @@ A modern and interactive task management web app built using **Laravel 12**, **L
 
 ---
 
-## 📷 Screenshot
+## Screenshots
 
-![App Screenshot](./public/todolist.png)
+<p align="center">
+  <img src="./public/todolist.png" width="70%">
+  <br><small> Dashboard View</small>
+</p>
 
 ---
 
@@ -48,7 +51,7 @@ cd todo-list-livewire
 composer install
 
 # Install front-end dependencies
-npm install && npm run dev
+npm install && npm run buid
 
 # Copy and configure environment
 cp .env.example .env
